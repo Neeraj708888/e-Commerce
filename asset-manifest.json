@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/e-Commerce/static/css/main.f21eb9da.css",
+    "main.js": "/e-Commerce/static/js/main.1266ad77.js",
+    "static/js/651.330b3dbb.chunk.js": "/e-Commerce/static/js/651.330b3dbb.chunk.js",
+    "static/media/Exclusive.jpg": "/e-Commerce/static/media/Exclusive.920b6f4e5bc30a867252.jpg",
+    "static/media/instagram.png": "/e-Commerce/static/media/instagram.1792ff30fb032c94685c.png",
+    "static/media/whatsapp.png": "/e-Commerce/static/media/whatsapp.1dd8ca2765f1f177ab22.png",
+    "static/media/stardull.png": "/e-Commerce/static/media/stardull.190d870d386afd29523a.png",
+    "static/media/k5.jpg": "/e-Commerce/static/media/k5.584e35217128d3a2674c.jpg",
+    "static/media/p7.jpg": "/e-Commerce/static/media/p7.99c06720faa4efdb3d74.jpg",
+    "static/media/pinterest.png": "/e-Commerce/static/media/pinterest.c0bf18f998816d009ce9.png",
+    "static/media/facebook.png": "/e-Commerce/static/media/facebook.bfd1cfff9f9521198b26.png",
+    "index.html": "/e-Commerce/index.html",
+    "main.f21eb9da.css.map": "/e-Commerce/static/css/main.f21eb9da.css.map",
+    "main.1266ad77.js.map": "/e-Commerce/static/js/main.1266ad77.js.map",
+    "651.330b3dbb.chunk.js.map": "/e-Commerce/static/js/651.330b3dbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f21eb9da.css",
+    "static/js/main.1266ad77.js"
+  ]
+}
